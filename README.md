@@ -8,6 +8,10 @@ Block-Based Programming: Create JavaScript code by dragging and dropping blocks.
 
 Custom Blocks: Includes blocks for variables, arithmetic, conditional logic, and printing output.<br/>
 
+https://github.com/user-attachments/assets/a755e9b6-5836-4ec2-b4ab-60f0e8be0556
+
+
+
 Run Code: Execute the generated JavaScript code directly from the UI.<br/>
 
 Reset Workspace: Clear the Blockly workspace with a single click.<br/>
