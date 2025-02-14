@@ -16,6 +16,18 @@ Custom Toolbox: Categorized blocks for easier navigation.<br/>
 
 Responsive UI: Styled using Tailwind CSS for a clean and modern interface.<br/>
 
+# Custom Blocks
+
+The application defines several custom blocks, including:<br/>
+
+setVariable: Assigns a value to a variable<br/>
+
+arithmetic: Performs mathematical operations<br/>
+
+print: Logs output to the console<br/>
+
+ifElse: Implements conditional logic<br/>
+
 # Installation
 
 # Prerequisites
